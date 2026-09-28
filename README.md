@@ -18,11 +18,11 @@
 
 ---
 
-## 👋 Hi, I'm Minh Nguyen!
+# 👋 Hi, I'm Minh Nguyen!
 
 <div align="center">
 
-### `Information Security Student` • `Coder` • `Gamer` • `Tech Enthusiast`
+## `Information Security Student` • `Coder` • `Gamer` • `Tech Enthusiast`
 
 </div>
 
