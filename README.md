@@ -17,10 +17,9 @@
 </div>
 
 ---
-
-# 👋 Hi, I'm Minh Nguyen!
-
 <div align="center">
+    
+# 👋 Hi, I'm Minh Nguyen!
 
 ## `Information Security Student` • `Coder` • `Gamer` • `Tech Enthusiast`
 
@@ -34,28 +33,24 @@ I'm interested in **Cybersecurity, Programming, Competitive Programming** and ex
 
 ---
 
-# 📌 FACTS ABOUT ME
+## 📌 FACTS ABOUT ME
 
-## 💬 Daily Life
+### 💬 Daily Life
 
 ```text
-┌──────────────────────────────────────────────┐
-│                  ABOUT ME                    │
-├──────────────────────────────────────────────┤
-│ 👤 Name       : Minh Nguyen                  │
-│ 🏷️ Nicknames  : Liamz07 / avocado_o24        │
-│ 🎓 University : UIT - VNUHCM                 │
-│ 🔐 Major      : Information Security         │
-│ 🧠 Personality: Introvert 😴                 │
-│ ♉ Zodiac     : Taurus 🐃                     │
-│ 🎨 Colors     : 🟦 🟩                       │
-│ 🐸 Emojis     : 🐸 💀                        │
-└──────────────────────────────────────────────┘
+👤 Name       : Minh Nguyen                  
+🏷️ Nicknames  : Liamz07 / avocado_o24        
+🎓 University : UIT - VNUHCM                 
+🔐 Major      : Information Security         
+🧠 Personality: Introvert 😴                
+♉ Zodiac     : Taurus 🐃                   
+🎨 Colors     : 🟦 🟩                       
+🐸 Emojis     : 🐸 💀                       
 ```
 
 ---
 
-## 😊 Hobbies
+### 😊 Hobbies
 
 * 🎧 Listening to music
 * 💻 Coding
@@ -68,7 +63,7 @@ I'm interested in **Cybersecurity, Programming, Competitive Programming** and ex
 
 ---
 
-## 🚫 Dislikes
+### 🚫 Dislikes
 
 * ❌ Talking badly about someone behind their back
 * ❌ Manipulating someone's emotions
@@ -77,7 +72,7 @@ I'm interested in **Cybersecurity, Programming, Competitive Programming** and ex
 
 ---
 
-# 🗿 CURRENTLY
+## 🗿 CURRENTLY
 
 <div align="center">
 
@@ -109,7 +104,7 @@ Personal Development
 
 ---
 
-# 💻 TECH & PROGRAMMING
+## 💻 TECH & PROGRAMMING
 
 <div align="center">
 
@@ -130,14 +125,14 @@ Personal Development
 
 ---
 
-# 🏆 COMPETITIVE PROGRAMMING
+## 🏆 COMPETITIVE PROGRAMMING
 
 I enjoy solving algorithmic problems and continuously improving my problem-solving skills.
 
 <div align="center">
 
-<a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME">
-<img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<a href="https://codeforces.com/profile/Minhratga">
+<img src="https://img.shields.io/badge/Codeforces-Minhratga-FE2020?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
 <a href="https://oj.vnoi.info/user/Liamz07">
@@ -150,27 +145,9 @@ I enjoy solving algorithmic problems and continuously improving my problem-solvi
 
 </div>
 
-### 🔗 My Competitive Programming Profiles
-
-<div align="center">
-
-<a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME">
-<img src="https://img.shields.io/badge/Codeforces-Visit%20Profile-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
-<a href="https://oj.vnoi.info/user/Liamz07">
-<img src="https://img.shields.io/badge/VNOJ-Visit%20Profile-00a8e8?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
-<a href="https://lqdoj.edu.vn/user/Liamz07">
-<img src="https://img.shields.io/badge/LQDOJ-Visit%20Profile-00c853?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-</div>
-
 ---
 
-# 📊 GITHUB STATISTICS
+## 📊 GITHUB STATISTICS
 
 <div align="center">
 
@@ -190,17 +167,7 @@ I enjoy solving algorithmic problems and continuously improving my problem-solvi
 
 ---
 
-# 📈 CONTRIBUTION GRAPH
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Liamz07&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
----
-
-# 🐍 CONTRIBUTION SNAKE
+## 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
 
@@ -210,7 +177,7 @@ I enjoy solving algorithmic problems and continuously improving my problem-solvi
 
 ---
 
-# 📚 WHAT I'M LEARNING
+## 📚 WHAT I'M LEARNING
 
 ```text
                 ┌─────────────────────┐
@@ -234,7 +201,7 @@ Programming
 
 ---
 
-# 🎯 GOALS
+## 🎯 GOALS
 
 ```text
 [████████████████████░░]  Keep learning
@@ -254,7 +221,7 @@ Programming
 
 ---
 
-# 📞 CONNECT WITH ME
+## 📞 CONNECT WITH ME
 
 <div align="center">
 
@@ -278,29 +245,8 @@ Programming
 
 ---
 
-# 🌐 OTHER PROFILES
 
-<div align="center">
-
-### 💻 Competitive Programming
-
-<a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
-<a href="https://oj.vnoi.info/user/Liamz07">
-<img src="https://img.shields.io/badge/VNOJ-00A8E8?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
-<a href="https://lqdoj.edu.vn/user/Liamz07">
-<img src="https://img.shields.io/badge/LQDOJ-00C853?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 🗣️ SLOGAN
+## 🗣️ SLOGAN
 
 <div align="center">
 
@@ -312,7 +258,7 @@ Programming
 
 ---
 
-# 📸 BEST PIC
+## 📸 BEST PIC
 
 <div align="center">
 
@@ -322,7 +268,7 @@ Programming
 
 ---
 
-# ⚡ FUN FACT
+## ⚡ FUN FACT
 
 <div align="center">
 
