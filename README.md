@@ -55,7 +55,7 @@ I'm interested in **Cybersecurity, Programming, Competitive Programming** and ex
 * 🎧 Listening to music
 * 💻 Coding
 * 🎮 Playing games
-* ⚔️ Liên Quân Mobile
+* ⚔️ Arena of Valor
 * 🟪 Geometry Dash
 * 🚶 Going outside and walking around
 * 🔍 Exploring new technologies
